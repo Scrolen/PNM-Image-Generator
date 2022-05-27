@@ -24,5 +24,8 @@ Output:
 ### Images that are generated
 The Images generated for each type (ppm, pgm, pbm) all look a certain way. Below are examples of how each image type generated will look.
 #### PBM Images:
+    ./main 1 240 240 pbm_image.pbm 0
 #### PGM Images:
+    ./main 2 240 240 pgm_image.pgm 0
 #### PPM Images:
+    ./main 3 240 240 ppm_image.ppm 0
